@@ -1,0 +1,18 @@
+# Archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
